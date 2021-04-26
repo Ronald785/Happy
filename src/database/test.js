@@ -5,8 +5,8 @@ Database.then(async db => {
    
     // inserir dados na tabela
     await saveOrphanage(db, {
-        lat: "-27.222633",
-        lng: "-49.6555874",
+        lat: "-22.9066619",
+        lng: "-47.0864879",
         name: "Lar das meninos",
         about: "Presta assistência a crianças de 06 a 15 anos que se encontre em situação de risco e/ou vulnerabilidade social.",
         whatsapp: "98989897898",
